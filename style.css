@@ -1,0 +1,151 @@
+body{
+    margin: 0px;
+    background-color: rgb(42, 42, 42);
+}
+#logo{
+    background-color:wheat;
+    color: rgb(112, 112, 245);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 75px;
+    font-weight: 300;
+    padding: 30px;
+    margin: 0px;
+}
+#article_1{
+    background-color: black;
+    color: wheat;
+    padding: 100px;
+    text-align: center;
+    margin:0px;
+
+}
+
+#navigation{
+    color: white;
+    background-color:rgb(42, 42, 42);
+    margin:0px;    
+    padding: 20px;
+    
+}
+.nav_bar{
+    padding-right: 40px;
+}
+.text_1{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: wheat;
+  color:;
+}
+
+
+a{
+    color: black;
+    list-style: none;
+    list-style: none;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(112, 112, 245) ;
+   
+}
+
+#article_2{
+    background-color:rgb(42, 42, 42);
+    padding:30px;
+    margin: 0px;
+    }
+    #about{
+        color: wheat;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: larger;
+        
+    }
+   
+    #lorem{
+        color: wheat;
+    }
+    .post
+{
+    width: 20%;
+    margin: auto;
+    margin-bottom: 10px;
+    background-color: wheat;
+    border-radius: 15px;
+    padding: 10px;
+
+    }
+   
+    #section_reviews{
+        background-color:rgb(42, 42, 42);
+        margin-top: 50px;
+        
+    }
+    #review{
+        color: wheat;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    margin-left: 25px;
+    }
+    #write_review{
+        margin: auto;
+        margin-top: 30px;
+        border-radius: 15px;
+        padding: 10px;
+        background-color: wheat;
+        width: 50%;
+    }
+    h4{
+        font-size: large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight:bold ;
+    }
+    .input_area{
+        background-color:rgb(205, 205, 205) ;
+        text-shadow: 20px;
+        padding: 5px;
+        margin: 20px;
+        border-style:groove;
+        border-radius:15px;
+
+    }
+
+
+    
+footer{
+    background-color:black;
+    margin-bottom: 0px;
+    padding: 20px;
+
+    
+}
+#social{
+  text-align: left;
+}
+.socials_tag{
+    color: wheat;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    text-align: left;
+}
+#instagram{
+    width: 70px;
+    height: 70px;
+}
+#twitter{
+    width: 70px;
+    height: 70px;
+}
+#facebook{
+    width: 70px;
+    height: 70px;
+}
+
+#phone_number{
+    text-decoration: underline;
+}
+
+
+
+
